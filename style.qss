@@ -1,0 +1,70 @@
+/* PDA Widget — STALKER-inspired amber terminal theme */
+
+#PDAPanel {
+    background-color: rgba(12, 14, 10, 220);
+    border: 1px solid rgba(140, 120, 60, 180);
+    border-radius: 4px;
+}
+
+QLabel {
+    color: #c9a94f;
+    font-family: "Consolas", "Cascadia Mono", monospace;
+    background: transparent;
+}
+
+QLabel#HeaderLabel {
+    color: #e0b84a;
+    font-size: 13px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+QLabel#ClockLabel {
+    color: #e8c766;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+QLabel#DateLabel {
+    color: #8a7a45;
+    font-size: 11px;
+}
+
+QLabel#SectionLabel {
+    color: #7d7040;
+    font-size: 10px;
+    letter-spacing: 1px;
+    margin-top: 6px;
+}
+
+QLabel#StatLabel {
+    color: #c9a94f;
+    font-size: 12px;
+}
+
+QProgressBar {
+    background-color: rgba(40, 36, 20, 200);
+    border: 1px solid rgba(140, 120, 60, 120);
+    border-radius: 2px;
+    text-align: center;
+    color: #e8c766;
+    font-size: 10px;
+    height: 14px;
+}
+
+QProgressBar::chunk {
+    background-color: #a9822f;
+    border-radius: 1px;
+}
+
+QPushButton#CloseButton {
+    color: #7d7040;
+    background: transparent;
+    border: none;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+QPushButton#CloseButton:hover {
+    color: #e0b84a;
+}
