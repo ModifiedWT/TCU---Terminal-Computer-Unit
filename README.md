@@ -12,3 +12,5 @@ In V0.1.0-Alpha, There is a Big Version, witch is the primary way this widget is
 ## Always On Top!
 
 In The alpha version your widget will be on top (Working on a Mode to turn this on and off)
+
+<img width="279" height="316" alt="image" src="https://github.com/user-attachments/assets/5bb7f109-7d29-42f2-9325-15f18d41586f" />
