@@ -2,7 +2,7 @@
 A TCU "Terminal Computer Unit" that acts like a widget on your desktop, displaying various amounts of information at your disposal.
 
 ## 4 New Colors
-In V0.1.0-Alpha We have 4 New Colors!
+In V0.1.2-Alpha We have 4 New Colors!
 
 Green:
 <img width="279" height="316" alt="image" src="https://github.com/user-attachments/assets/5bb7f109-7d29-42f2-9325-15f18d41586f" />
@@ -19,21 +19,21 @@ Red:
 
 
 ## A Small Difference!
-In V0.1.0-Alpha, There is a Big Version, witch is the primary way this widget is meant to be used, but we also offer a "Pill" styled Configuration button that compresses everything down. 
+In V0.1.2-Alpha, There is a Big Version, witch is the primary way this widget is meant to be used, but we also offer a "Pill" styled Configuration button that compresses everything down. 
 
 ## Always On Top!
 
-In The alpha version your widget will be on top (Working on a Mode to turn this on and off)
+There is now three separate modes! The first mode is that the widget will always be on top of everything (including games) the next mode is that it will be on the desktop only. The last mode is that its auto, its stay on top but only if there is no Fullscreen!
 
 ## Road Map
 Depending on the amount of people who participate in this project and give me feedback, will correlate to if i keep working on this. That being said i have a couple of features i do want to implement before i release a full version.
 
-- Config File
-- Weather System
-- Icon
-- A Way to keep the widget on the desktop, or an auto mode so that it will only do it unless in Fullscreen or a video game
-- UI Overhaul
-- and implementing feedback from the community!
+- Config File | DONE
+- Weather System | DONE
+- Icon | DONE
+- A Way to keep the widget on the desktop, or an auto mode so that it will only do it unless in Fullscreen or a video game | DONE
+- UI Overhaul | IN PROGRESS
+- and implementing feedback from the community! | IN PROGRESS
 
 # TO INSTALL!
 
@@ -43,4 +43,4 @@ In order to install this, please follow the steps:
 3. Open the Folder and Run Build.bat
 4. Let it Finish Building
 5. Fun the file in the outputted 'dist' folder
-6. Enjoy!
+7. Enjoy!
